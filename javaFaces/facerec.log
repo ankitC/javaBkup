@@ -1,0 +1,10 @@
+Jul 22, 2013 11:38:32 PM facerecognition.javafaces.FaceRec checkCache
+INFO: cache file not found
+Jul 22, 2013 11:38:33 PM facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: creating eigenfaces
+Jul 22, 2013 11:38:33 PM facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: created eigenfaces.
+Jul 22, 2013 11:38:33 PM facerecognition.javafaces.FaceRec writeCache
+INFO: wrote cache
+Jul 22, 2013 11:38:34 PM facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over

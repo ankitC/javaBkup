@@ -1,0 +1,5 @@
+package facerecognition.utils;
+
+public class WriteToHDFS {
+
+}
